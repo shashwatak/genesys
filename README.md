@@ -45,9 +45,11 @@
 			- Returns: int
 
 # TODO
+	- Breed fitter programs more times per generation.
 
+## Refactor
     - Clean up static vs instance methods in Node
     - Have Population call methods on Program to do mutation and random
     initialization instead of doing it itself
     - Clean up 1D regression problem
-
+    - Rename createNode to createTree
